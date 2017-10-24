@@ -1,0 +1,15 @@
+C:\Users\AM7\Documents\Visual Studio 2015\Projects\ReadExcel\ReadExcel\bin\Release\ReadExcel.exe.config
+C:\Users\AM7\Documents\Visual Studio 2015\Projects\ReadExcel\ReadExcel\obj\Release\Interop.wkspbkaxLib.dll
+C:\Users\AM7\Documents\Visual Studio 2015\Projects\ReadExcel\ReadExcel\obj\Release\ReadExcel.csproj.ResolveComReference.cache
+C:\Users\AM7\Documents\Visual Studio 2015\Projects\ReadExcel\ReadExcel\bin\Release\ReadExcel.exe
+C:\Users\AM7\Documents\Visual Studio 2015\Projects\ReadExcel\ReadExcel\bin\Release\ReadExcel.pdb
+C:\Users\AM7\Documents\Visual Studio 2015\Projects\ReadExcel\ReadExcel\bin\Release\ExcelDataReader.DataSet.dll
+C:\Users\AM7\Documents\Visual Studio 2015\Projects\ReadExcel\ReadExcel\bin\Release\ExcelDataReader.dll
+C:\Users\AM7\Documents\Visual Studio 2015\Projects\ReadExcel\ReadExcel\bin\Release\ExcelDataReader.xml
+C:\Users\AM7\Documents\Visual Studio 2015\Projects\ReadExcel\ReadExcel\bin\Release\ExcelDataReader.DataSet.xml
+C:\Users\AM7\Documents\Visual Studio 2015\Projects\ReadExcel\ReadExcel\obj\Release\ReadExcel.Extensions.resources
+C:\Users\AM7\Documents\Visual Studio 2015\Projects\ReadExcel\ReadExcel\obj\Release\ReadExcel.Form2.resources
+C:\Users\AM7\Documents\Visual Studio 2015\Projects\ReadExcel\ReadExcel\obj\Release\ReadExcel.Properties.Resources.resources
+C:\Users\AM7\Documents\Visual Studio 2015\Projects\ReadExcel\ReadExcel\obj\Release\ReadExcel.csproj.GenerateResource.Cache
+C:\Users\AM7\Documents\Visual Studio 2015\Projects\ReadExcel\ReadExcel\obj\Release\ReadExcel.exe
+C:\Users\AM7\Documents\Visual Studio 2015\Projects\ReadExcel\ReadExcel\obj\Release\ReadExcel.pdb
